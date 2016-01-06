@@ -1,3 +1,3 @@
 # Neural Android Coding Challenge
 
-All Android Studio Project files are in this repository
+All Android Studio Project files for the app are in this repository
