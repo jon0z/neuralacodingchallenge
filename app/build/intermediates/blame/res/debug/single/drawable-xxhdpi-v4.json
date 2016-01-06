@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/image_button_bg.png",
+        "source": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/src/main/res/drawable-xxhdpi/image_button_bg.png"
+    },
+    {
+        "merged": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]

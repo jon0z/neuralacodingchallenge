@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_button_bg.png",
+        "source": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/src/main/res/drawable-mdpi/image_button_bg.png"
+    },
+    {
+        "merged": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_search.png",
+        "source": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/src/main/res/drawable-mdpi/ic_action_search.png"
+    }
+]

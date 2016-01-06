@@ -1,0 +1,79 @@
+[
+    {
+        "outputFile": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 50,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 67,
+                    "endOffset": 226
+                },
+                "from": {
+                    "file": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 231,
+                    "endColumn": 31,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endColumn": 31,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 57,
+                    "endOffset": 348
+                },
+                "from": {
+                    "file": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]

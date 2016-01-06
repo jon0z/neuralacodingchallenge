@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/build/intermediates/res/merged/debug/drawable/joystick_eight_direction_back.png",
+        "source": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/src/main/res/drawable/joystick_eight_direction_back.png"
+    },
+    {
+        "merged": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/build/intermediates/res/merged/debug/drawable/image_button_bg.png",
+        "source": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/src/main/res/drawable/image_button_bg.png"
+    },
+    {
+        "merged": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/build/intermediates/res/merged/debug/drawable/joystick_thumb.png",
+        "source": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/src/main/res/drawable/joystick_thumb.png"
+    },
+    {
+        "merged": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/build/intermediates/res/merged/debug/drawable/image_button.png",
+        "source": "/Users/Jonas/AndroidStudioProjects/JoyStickController/app/src/main/res/drawable/image_button.png"
+    }
+]
